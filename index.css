@@ -1,0 +1,19 @@
+
+body{
+    background-color: black;
+}
+
+.parent-div {
+    position: relative;
+}
+
+.align_center {
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.dsplay-grid {
+    display: grid;
+}
