@@ -5,6 +5,13 @@ body{
 
 .parent-div {
     position: relative;
+    margin: auto;
+    width: 35%;
+    height: 456px;
+    background-color: aqua;
+    border-radius: 25px;
+    margin-top: 15%;
+    padding-top: 25px;
 }
 
 .align_center {
@@ -16,4 +23,9 @@ body{
 
 .dsplay-grid {
     display: grid;
+}
+
+.input-css{
+    border-bottom: groove;
+    display: flex;
 }
